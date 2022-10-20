@@ -1,7 +1,7 @@
 
  <div class='container'align='left'>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img class="img" src="https://komarev.com/ghpvc/?username=EPIICTHUNDERCAT&label=Visitors&color=blue"/>
- <a href="https://linkedin.com/in/calebhebert">
+ <a href="https://www.linkedin.com/in/ricardo-v-59b455106/">
  &nbsp;&nbsp;&nbsp;<img class="img" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat"/>
       </a>
  </div>
