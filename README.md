@@ -17,6 +17,7 @@
 
  <div class='container'align='center'>
  <img class="img" src="https://leetcard.jacoblin.cool/EpicThundercat/?ext=heatmap&theme=dark"/>
+ <img class="img" src="https://www.codewars.com/users/Rickbee/badges/large"/>
  </div><br>
  
 
