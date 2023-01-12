@@ -7,13 +7,6 @@
  </div>
             
 
-<div class='container'align = 'center'>
-<br><img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=EPIICTHUNDERCAT&show_icons=true&theme=dark"/>
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EPIICTHUNDERCAT&theme=dark&langs_count=8&layout=compact" />
-</div>
-<br>
 
  <div class='container'align='center'>
  <img class="img" src="https://leetcard.jacoblin.cool/EpicThundercat/?ext=heatmap&theme=dark"/>
